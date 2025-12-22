@@ -23,9 +23,36 @@ Managing sports court reservations manually can lead to conflicts, data loss, an
 * **Unique Booking IDs:** Auto-generated 4-digit unique IDs for every reservation.
 
 ### Admin Features
-* **Secure Dashboard:** Protected by an administrative PIN.
+* **Secure Dashboard:** Protected by an administrative PIN (839493).
 * **Master View:** View all active bookings in a formatted table.
 * **File Persistence:** All data is saved to `booking.txt`, ensuring records are not lost when the program closes.
+
+---
+
+## 📸 Screenshots
+
+### 1. Main Menu
+<img src="screenshots/main-menu.png" alt="Main Menu" width="600">
+
+
+### 2. Booking a Court
+<img src="screenshots/court-booking.png" alt="Main Menu" width="600">
+
+
+### 3. Checking and Editing Booking
+<img src="screenshots/check-booking.png" alt="Main Menu" width="600">
+
+
+### 4. Cancelling Reservation
+<img src="screenshots/cancel-booking.png" alt="Main Menu" width="600">
+
+
+### 5. Check a Court's Availability
+<img src="screenshots/check-availability.png" alt="Main Menu" width="600">
+
+
+### 6. Administrative View Of All Bookings
+<img src="screenshots/all-bookings.png" alt="Main Menu" width="600">
 
 ---
 
