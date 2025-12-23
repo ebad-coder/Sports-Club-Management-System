@@ -29,7 +29,7 @@ Managing sports court reservations manually can lead to conflicts, data loss, an
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### 1. Main Menu
 <img src="screenshots/main-menu.png" alt="Main Menu" width="600">
